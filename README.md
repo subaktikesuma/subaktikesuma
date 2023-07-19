@@ -32,7 +32,7 @@ I'm a Student, if there is a mistake please guide me
     <a href="https://github.com/subaktikesuma"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=subaktikesuma&theme=dracula&hide_border=true"></a>
 </p>
 <p align="center">
-    <a href="https://youtube.com/SubaktiNihBozzz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCOJssYzKDzEo7Xf80TndqnA?label=YouTube&logo=YouTube&style=for-the-badge"></a>
+    <a href="https://youtube.com/@SubaktiNihBozzz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCOJssYzKDzEo7Xf80TndqnA?label=YouTube&logo=YouTube&style=for-the-badge"></a>
 </p>
 
-[YouTube]: https://youtube.com/SubaktiNihBozzz?sub_confirmation=1
+[YouTube]: https://youtube.com/@SubaktiNihBozzz?sub_confirmation=1
