@@ -10,7 +10,7 @@ I'm a Student, if there is a mistake please guide me
 ### Connect with me:
 
 [<img align="left" width="22" alt="Subakti Kesuma on YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg">][YouTube]
-[<img align="left" width="22" alt="Subakti Kesuma on Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg">](https://t.me/SubaktiNihBozz)
+[<img align="left" width="22" alt="Subakti Kesuma on Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg">](https://t.me/DexSubakti)
 <br>
 
 ### Languages and Tools:
