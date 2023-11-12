@@ -5,7 +5,7 @@ I'm a Student, if there is a mistake please guide me
 - 📚 I'm currently learning everything
 - ⭐️ For now my hobbies are Anime, Programming and Games
 - ❤️ I hope I can help you
-- 💬 Want to ask something? ask me [here](https://t.me/SubaktiKesumaGMG)
+- 💬 Want to ask something? ask me [here](https://t.me/SubaktiKesuma)
 
 ### Connect with me:
 
